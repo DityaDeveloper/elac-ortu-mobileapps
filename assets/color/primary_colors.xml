@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#FF6C06</color>
+    <color name="orange-glow">#FF8226</color>
+    <color name="white">#FFFFFF</color>
+    <color name="sunglow">#FFC827</color>
+    <color name="downy">#5DCEBD</color>
+    <color name="purplelow">#5667FD</color>
+    <color name="blackgrey">#364356</color>
+    
+</resources>

@@ -1,0 +1,206 @@
+keytool -genkey -v -keystore C:\Users\admin\StudioProjects\akucerdasortu\.keystore\key.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias elacortu
+
+password : 123456
+
+evUALh8vSril48XYFzkJJ9:APA91bEooGEVuHp3T4Han1ELT5mBxUrl7V4JfTQ5gtgUdp_cVq_fhLsN-rNsDV-GcYpzh-yDxrhAvRHBK4MqsyvIySkqOlSDmUev70qWL5P0zvDWMhTNkhUQ9AI_mBQuTw-sck-g6oOD
+
+1. user wahyudi
+nisn  : 98765
+pass : 1234
+uid : w2QJoDOMd94oifhmsHtc
+
+2. user inayah hamdani
+nisn : 0099481243
+pass : 1234
+uid : 3cM4bX6ufvlOcxrhmY2w
+
+3. user muhammad jamil ikhsan
+nisn : 0108332282
+pass : 1234
+uid : vryRYui08LS9d0XqdQRC
+
+05030D
+gradient 1
+8E7CFC
+5C41FF
+gradient 2
+FCB97C
+654EF3
+gradient 3
+F988CB
+654EF3
+
+{
+  "to": "topics/all"
+  "notification": {
+    "body": "Kamu berhasil absen hari ini",
+    "OrganizationId": "2",
+    "content_available": true,
+    "priority": "high",
+    "subtitle": "Sekolah Happy",
+    "title": "Notifikasi"
+  },
+  "data": {
+    "priority": "high",
+    "sound": "app_sound.wav",
+    "content_available": true,
+    "bodyText": "New Announcement assigned",
+    "organization": "Elementary school"
+  }
+}
+
+{
+countMapel
+id
+mapel
+uid FXHzjkkXApMGVyAKPnRq
+}
+
+{
+btnLabel
+id
+image
+subtitle
+title
+}
+
+F37A7A
+B8B8B8
+
+img promotion
+https://firebasestorage.googleapis.com/v0/b/aku-cerdas-orang-tua.appspot.com/o/assets%2Fimages%2Fteacher_menu_logo.png?alt=media&token=111fc795-063d-498f-9621-226b54a7a1c0
+
+//
+
+attendance data
+{
+createAt 1672810037764
+day 4
+isattend true
+month
+nama_lengkap
+nisn
+qrcode
+status_absen
+uid
+year
+}
+
+
+{
+//dac user
+avatar
+https://firebasestorage.googleapis.com/v0/b/digital-alumni-ilmci.appspot.com/o/internal%2Fassets%2Flogo.png?alt=media&token=2375fed1-8208-44f0-84e6-86b8ea8a0525
+email
+developer@dac.com
+package
+com.ilmci.digitalbook
+password
+123456
+pin
+DAC7WJB5I
+telegramNumber
+uid
+
+userRole
+user
+userStatus
+active
+username
+developer dac
+whastappNumber
+
+}
+
+
+// user data
+- uid
+- fcmtoken
+- nama
+- username
+- pin
+- avatar
+- cover profile
+- bio
+- tanggal lahir
+- email
+- no ktp
+- no handphone
+- no whatsapp
+- no signal
+- no kakao talk
+- no line
+- status
+- package
+- user role
+- user status
+- ishide tanggal lahir
+- ishide email
+- ishide no handphone
+- ishide no ktp
+- ishide no ijazah
+- ishide pin
+
+// feeder data
+- id
+- author
+- category (list)
+- date
+- description
+- favorites
+- followers (list)
+- followersfavorites (list)
+- id
+- media feed
+- time
+- userimage
+- username
+- ishide (bool)
+
+mediaFeedList
+
+
+LNGIefXFYs3TCZcwsgGI
+MgDb3cSOLl6D2tENYSOx
+d3DR9A9KUPxb732DC91A
+jmQrBLUJV1EwXaT73Qwy
+
+
+keytool -genkey -v -keystore C:/Users/admin/lpdp-ebeasiswa-development.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias lpdpebeasiswadevelopment
+
+
+event
+program
+agenda
+
+
+    required String id,
+    required String uid,
+    required String feedid,
+    required String author,
+    required String comment,
+    required String commentid,
+    required String date,
+    required String time,
+    required String createdAt,
+    required String username,
+    required String avatar,
+
+10,11,12,21,26,46,53
+
+Blokir konten yang berpotensi melanggar
+Blokir pengguna untuk potensi pelanggaran
+Melaporkan konten pengguna yang melanggar
+Melaporkan konten yang melanggar
+Ini adalah spam
+Saya hanya tidak menyukainya
+Kekerasan atau organisasi berbahaya
+Informasi palsu
+
+
+keytool -genkey -v -keystore c:\Users\admin\ilmci-dac.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias key
+pass : @merpati992
+first name : ilmci dac
+last name : android
+organization unit : dac
+Is CN=ilmci dac android, OU=dac, O=ilmci, L=jakarta, ST=jakarta, C=62 correct?

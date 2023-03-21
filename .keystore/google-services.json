@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "286692649623",
+    "project_id": "aku-cerdas-orang-tua",
+    "storage_bucket": "aku-cerdas-orang-tua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286692649623:android:908df3f65b9fff7bf3d7d2",
+        "android_client_info": {
+          "package_name": "com.elearning.akucerdasortu.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286692649623-dd64e3hvmgoeagutpdh408rjbqhpunsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbbghIqeY9Vgvix0pHPXrNlcIuOWmK44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286692649623-dd64e3hvmgoeagutpdh408rjbqhpunsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286692649623:android:d6e0460b90ed8222f3d7d2",
+        "android_client_info": {
+          "package_name": "com.elearning.akucerdasortu.android.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286692649623-dd64e3hvmgoeagutpdh408rjbqhpunsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbbghIqeY9Vgvix0pHPXrNlcIuOWmK44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286692649623-dd64e3hvmgoeagutpdh408rjbqhpunsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
